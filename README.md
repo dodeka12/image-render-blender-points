@@ -1,6 +1,6 @@
-# Image-Render Standard Blender Actions
+# Image-Render Blender AddOn for Point Cloud import
 
-Add Blender import addon for point cloud files.
+Implements Blender import addon for point cloud files.
 
 ## Purpose of the project
 
