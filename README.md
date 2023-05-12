@@ -1,6 +1,10 @@
 # Image-Render Blender AddOn for Point Cloud import
 
+**Check out the `stable` branch for the latest stable version**
+
 Implements Blender import addon for point cloud files.
+
+See the repository `image-render-setup` for more information and documentation on the `image-render` automation system.
 
 ## Purpose of the project
 
