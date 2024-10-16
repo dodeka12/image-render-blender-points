@@ -142,7 +142,7 @@ class CPointCloud:
 
         iAddCnt = iPixCnt - iColorCnt
         imgA.pixels = list(np.r_[lCol_flat, np.zeros(iAddCnt * 4)])
-        bpy.ops.image.pack({"edit_image": imgA})
+        anyblend.ops_image.Pack(imgA)
 
         # print(imgA.name)
         texA = bpy.data.textures.new(self.sName + ".Color.Tex", type="IMAGE")
